@@ -15,7 +15,7 @@ A simple, responsive To-Do application built to manage daily tasks efficiently.
 ## 🛠️ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Ishu-47/react-todo-list.git](https://github.com/Ishu-47/react-todo-list.git)
+   git clone [https://github.com/Ishu-47/react-todo-list.git]
 2. Install dependencies:
    ```bash
     npm install
